@@ -1,0 +1,15 @@
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/SmartBirthWebAPI.dll
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/SmartBirthWebAPI.pdb
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/Newtonsoft.Json.dll
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/System.Net.Http.Formatting.dll
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/System.Web.Http.dll
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/System.Web.Http.WebHost.dll
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/Newtonsoft.Json.xml
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/System.Net.Http.Formatting.xml
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/System.Web.Http.xml
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/bin/System.Web.Http.WebHost.xml
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/obj/Debug/SmartBirthWebAPI.csprojAssemblyReference.cache
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/obj/Debug/SmartBirthWebAPI.csproj.CoreCompileInputs.cache
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/obj/Debug/SmartBirthWebAPI.csproj.CopyComplete
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/obj/Debug/SmartBirthWebAPI.dll
+/Users/amandahagy/SmartBirthWebAPI/SmartBirthWebAPI/SmartBirthWebAPI/obj/Debug/SmartBirthWebAPI.pdb

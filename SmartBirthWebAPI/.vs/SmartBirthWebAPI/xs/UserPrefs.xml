@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{145B1B77-9680-4DCC-BD20-AD74379AB011}|">
-  <MonoDevelop.Ide.ItemProperties.SmartBirthWebAPI FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthWebAPI/App_Start/WebApiConfig.cs">
+    <Files>
+      <File FileName="SmartBirthWebAPI/Controllers/UserController.cs" Line="24" Column="2" />
+      <File FileName="SmartBirthWebAPI/App_Start/WebApiConfig.cs" Line="2" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartBirthWebAPI" expanded="True">
+            <Node name="SmartBirthWebAPI" expanded="True">
+              <Node name="App_Start" expanded="True">
+                <Node name="WebApiConfig.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SmartBirthWebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -63,6 +63,16 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="DAL\UserDAL.cs" />
+    <Compile Include="Models\BirthRegistration.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Models\.DS_Store" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
