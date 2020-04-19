@@ -1,18 +1,22 @@
 ﻿<Properties StartupConfiguration="{145B1B77-9680-4DCC-BD20-AD74379AB011}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthWebAPI/App_Start/WebApiConfig.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthWebAPI/Controllers/UserController.cs">
     <Files>
-      <File FileName="SmartBirthWebAPI/Controllers/UserController.cs" Line="24" Column="2" />
-      <File FileName="SmartBirthWebAPI/App_Start/WebApiConfig.cs" Line="2" Column="4" />
+      <File FileName="SmartBirthWebAPI/Controllers/UserController.cs" Line="13" Column="24" />
+      <File FileName="SmartBirthWebAPI/DAL/UserDAL.cs" />
+      <File FileName="SmartBirthWebAPI/Models/User.cs" />
+      <File FileName="SmartBirthWebAPI/Models/BirthRegistration.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SmartBirthWebAPI" expanded="True">
             <Node name="SmartBirthWebAPI" expanded="True">
-              <Node name="App_Start" expanded="True">
-                <Node name="WebApiConfig.cs" selected="True" />
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
