@@ -26,5 +26,24 @@ namespace SmartBirthWebAPI.Controllers
                 return NotFound();
             }
         }
+
+        public IHttpActionResult Post([FromBody] User User)
+        {
+            try
+            {
+                UserDAL dal = new UserDAL();
+                dal.Insert(User);
+
+                string location =
+                    Url.Link("DefaultApi",
+                    new { controller = "user", id = User.UserCode });
+
+                return Created(new Uri(location), User);
+            }
+            catch (Exception)
+            {
+                return BadRequest();
+            }
+        }
     }
 }
