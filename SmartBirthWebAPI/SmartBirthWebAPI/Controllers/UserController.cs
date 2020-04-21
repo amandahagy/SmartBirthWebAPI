@@ -45,5 +45,33 @@ namespace SmartBirthWebAPI.Controllers
                 return BadRequest();
             }
         }
+
+        public IHttpActionResult Delete(int id)
+        {
+            try
+            {
+                UserDAL dal = new UserDAL();
+                dal.Delete(id);
+                return Ok();
+            }
+            catch (Exception)
+            {
+                return BadRequest();
+            }
+        }
+
+        public IHttpActionResult Put([FromBody] User user)
+        {
+            try
+            {
+                UserDAL dal = new UserDAL();
+                dal.Update(user);
+                return Ok();
+            }
+            catch (Exception)
+            {
+                return BadRequest();
+            }
+        }
     }
 }
