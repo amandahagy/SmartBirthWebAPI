@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{145B1B77-9680-4DCC-BD20-AD74379AB011}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthWebAPI/Models/BirthRegistration.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthWebAPI/Controllers/BirthRegistrationController.cs">
     <Files>
-      <File FileName="SmartBirthWebAPI/Controllers/UserController.cs" Line="40" Column="1" />
-      <File FileName="SmartBirthWebAPI/DAL/UserDAL.cs" Line="66" Column="27" />
-      <File FileName="SmartBirthWebAPI/Models/User.cs" Line="9" Column="7" />
-      <File FileName="SmartBirthWebAPI/Models/BirthRegistration.cs" Line="1" Column="1" />
+      <File FileName="SmartBirthWebAPI/Models/BirthRegistration.cs" Line="30" Column="10" />
+      <File FileName="SmartBirthWebAPI/Controllers/BirthRegistrationController.cs" Line="9" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,11 +10,11 @@
           <Node name="SmartBirthWebAPI" expanded="True">
             <Node name="SmartBirthWebAPI" expanded="True">
               <Node name="App_Start" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="DAL" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="BirthRegistration.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="BirthRegistrationController.cs" selected="True" />
               </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -67,6 +67,8 @@
     <Compile Include="Models\BirthRegistration.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Controllers\BirthRegistrationController.cs" />
+    <Compile Include="DAL\BirthRegistrationDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Models\.DS_Store" />
